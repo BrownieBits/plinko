@@ -15,7 +15,7 @@ var bucketsCount = 5;
 var bucketHeight = 100;
 
 function setup() {
-    canvas = createCanvas(400,600);
+    canvas = createCanvas(350,550);
     engine = Engine.create();
     world = engine.world;
     var spacing = width / cols;
