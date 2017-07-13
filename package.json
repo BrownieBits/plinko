@@ -6,4 +6,7 @@
     "compression": "^1.6.2",
     "express": "4.x"
   }
+  "engines": {
+    "node": "6.11.1"
+  }
 }
